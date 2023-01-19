@@ -1,0 +1,28 @@
+* {text-align: center; font-family: 'Ubuntu', sans-serif;}
+body {background:#E11A27 ;}
+h1 {text-align: center; font-family: 'Ubuntu', sans-serif; color: white;}
+.flag {
+  background-color: #E11A27;
+  margin: auto;
+  height: 640px;
+  width: 640px;
+  overflow: hidden;
+  border-radius: 32px;
+}
+.white {
+  position: absolute;
+  background-color: white;
+  display: block;
+}
+.stripever {
+  margin-top: 80px;
+  height: 480px;
+  width: 128px;
+  margin-left: 256px;
+}
+.stripehor {
+  width: 480px;
+  height: 128px;
+  margin-left: 80px;
+  margin-top: 256px;
+}
