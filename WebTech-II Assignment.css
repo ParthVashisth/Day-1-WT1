@@ -1,0 +1,121 @@
+.untitled-design-1 {
+    position: absolute;
+    bottom: 267px;
+    left: 1351px;
+    width: 353px;
+    height: 564px;
+    object-fit: cover;
+  }
+  .yoga-pose-2-1 {
+    position: absolute;
+    top: 155px;
+    left: 986px;
+    width: 338px;
+    height: 507px;
+    object-fit: cover;
+  }
+  .namaste-savasna {
+    top: 231px;
+    left: 149px;
+    font-size: var(--font-size-45xl);
+    font-weight: 800;
+    color: var(--color-gray);
+    width: 676px;
+    height: 115px;
+  }
+  .namaste-savasna,
+  .say-namaste-to,
+  .start-a-journey {
+    position: absolute;
+    display: inline-block;
+  }
+  .start-a-journey {
+    top: 433px;
+    left: 290px;
+    font-size: 40px;
+    width: 486px;
+    height: 148px;
+  }
+  .say-namaste-to {
+    top: 600px;
+    left: 264px;
+    font-size: var(--font-size-45xl);
+    color: #716e59;
+    width: 722px;
+    height: 348px;
+  }
+  .home-child {
+    position: absolute;
+    top: 930px;
+    left: 537px;
+    background-color: var(--color-linen);
+    border: 4px solid var(--color-gray);
+    box-sizing: border-box;
+    width: 551px;
+    height: 109px;
+  }
+  .start {
+    position: absolute;
+    top: 960px;
+    left: 736px;
+    font-size: 48px;
+    display: inline-block;
+    color: var(--color-gray);
+    width: 178px;
+    height: 49px;
+  }
+  .home-item {
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    width: 1728px;
+    height: 99px;
+  }
+  .classes,
+  .contact-us,
+  .home1,
+  .services,
+  .success-stories {
+    position: absolute;
+    top: 28px;
+    left: 684px;
+    font-weight: 500;
+    display: inline-block;
+    width: 105px;
+    height: 42px;
+  }
+  .classes,
+  .contact-us,
+  .services,
+  .success-stories {
+    left: 830px;
+    width: 156px;
+    cursor: pointer;
+  }
+  .contact-us,
+  .services,
+  .success-stories {
+    left: 1002px;
+    width: 163px;
+  }
+  .contact-us,
+  .success-stories {
+    left: 1482px;
+    width: 191px;
+  }
+  .success-stories {
+    left: 1195px;
+    width: 246px;
+  }
+  .home {
+    position: relative;
+    background-color: var(--color-linen);
+    width: 100%;
+    height: 1117px;
+    text-align: left;
+    font-size: var(--font-size-13xl);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
